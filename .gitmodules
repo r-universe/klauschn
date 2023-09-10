@@ -5,9 +5,6 @@
 [submodule "BSSasymp"]
 	path = BSSasymp
 	url = https://github.com/cran/BSSasymp
-[submodule "ICS"]
-	path = ICS
-	url = https://github.com/cran/ICS
 [submodule "ICSNP"]
 	path = ICSNP
 	url = https://github.com/cran/ICSNP
