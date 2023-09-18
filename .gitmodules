@@ -17,12 +17,6 @@
 [submodule "ICtest"]
 	path = ICtest
 	url = https://github.com/cran/ICtest
-[submodule "JADE"]
-	path = JADE
-	url = https://github.com/cran/JADE
-[submodule "LDRTools"]
-	path = LDRTools
-	url = https://github.com/cran/LDRTools
 [submodule "MNM"]
 	path = MNM
 	url = https://github.com/cran/MNM
