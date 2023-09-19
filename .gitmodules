@@ -5,12 +5,6 @@
 [submodule "BSSasymp"]
 	path = BSSasymp
 	url = https://github.com/cran/BSSasymp
-[submodule "ICSNP"]
-	path = ICSNP
-	url = https://github.com/cran/ICSNP
-[submodule "ICSOutlier"]
-	path = ICSOutlier
-	url = https://github.com/cran/ICSOutlier
 [submodule "ICSShiny"]
 	path = ICSShiny
 	url = https://github.com/cran/ICSShiny
