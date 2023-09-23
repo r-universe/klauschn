@@ -14,9 +14,6 @@
 [submodule "MNM"]
 	path = MNM
 	url = https://github.com/cran/MNM
-[submodule "REPPlabShiny"]
-	path = REPPlabShiny
-	url = https://github.com/cran/REPPlabShiny
 [submodule "SpatialNP"]
 	path = SpatialNP
 	url = https://github.com/cran/SpatialNP
