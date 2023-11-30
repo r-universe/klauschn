@@ -11,9 +11,6 @@
 [submodule "ICtest"]
 	path = ICtest
 	url = https://github.com/cran/ICtest
-[submodule "MNM"]
-	path = MNM
-	url = https://github.com/cran/MNM
 [submodule "SpatialNP"]
 	path = SpatialNP
 	url = https://github.com/cran/SpatialNP
