@@ -2,21 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "BSSasymp"]
-	path = BSSasymp
-	url = https://github.com/cran/BSSasymp
-[submodule "ICSShiny"]
-	path = ICSShiny
-	url = https://github.com/cran/ICSShiny
 [submodule "ICtest"]
 	path = ICtest
 	url = https://github.com/cran/ICtest
-[submodule "SpatialNP"]
-	path = SpatialNP
-	url = https://github.com/cran/SpatialNP
-[submodule "fICA"]
-	path = fICA
-	url = https://github.com/cran/fICA
-[submodule "fastM"]
-	path = fastM
-	url = https://github.com/cran/fastM
