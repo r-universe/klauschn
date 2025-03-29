@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "ICtest"]
 	path = ICtest
-	url = https://github.com/cran/ICtest
+	url = https://github.com/klauschn/ictest
